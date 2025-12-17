@@ -1,6 +1,11 @@
 # TestTwos
 for ease of access
 (I Have no Idea what I'm doing)
+<h1>BIG NOTE</h1>
+<p>There are two sets included in this project</p>
+<p>Project 1.4 is supposed to be the final output</p>
+<p>Project 1.3 is the stripped down basic output with only the .txt files</p>
+<p>Project 1.2 is the base version of the project, the same as [Project 1.3]</p>
 
 <h1>For Testing Purposes</h1>
 <table>
