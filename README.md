@@ -2,7 +2,7 @@
 for ease of access
 (I Have no Idea what I'm doing)
 <h1>BIG NOTE (READ THIS SERIOUSLY)</h1>
-<p>There are two sets included in this project</p>
+<p>There are four sets included in this project</p>
 <p>Project 1.4 (Reconfigured), same as 1.4 except the code where you can't access files when not logged in actually works</p>
 <p>Project 1.4 is supposed to be the final output</p>
 <p>Project 1.3 is the stripped down basic output with only the .txt files</p>
