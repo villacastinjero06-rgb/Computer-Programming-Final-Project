@@ -22,7 +22,7 @@
 </html>
 <?php
     session_start();
-    if(@$_SESSION ['adminuser']){
+    if(@$_SESSION ["adminuser"]){
         header("Location:welcome.php");
     }
 ?>

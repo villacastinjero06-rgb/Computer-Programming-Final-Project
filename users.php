@@ -11,7 +11,7 @@ $users = [
             "A_single_line.php",
             "A_Triangles.php",
             "A_variable.php",
-            "A_Voter_age_and_Grading_System.php"
+            "A_Voter_and_Grades.php",
         ]
     ],
     "david" => [

@@ -10,4 +10,10 @@ $requiredFile = "John_Michael.txt";
                 "JM_Variable.php";
                 "JM_VOTE.php";
 include 'guard.php';
+include __DIR__ . '/../users.php';
+$me = $_SESSION['adminuser'] ?? null;
+if (!$me || !isset($users[$me]) || !in_array('', $users[$me]['files'])) {
+    http_response_code(403);
+    exit('Access denied');
+}
 ?>

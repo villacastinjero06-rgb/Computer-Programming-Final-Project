@@ -1,3 +1,4 @@
+/* index.php */
 * {
     padding: 0;
     margin: 0;
@@ -7,9 +8,8 @@
 
 body {
     background: radial-gradient(#25012c 30%, #580949 90%);
-    width: 100%;
 }
-/* index.php */
+
 main {
     display: flex;
     align-items: center;
@@ -33,9 +33,11 @@ button {
     border-radius: 10px;
     color: rgb(53, 4, 59);
 }
+
 input:hover{
     box-shadow: 0 0 30px #2f0322fc;
 }
+
 img {
     background: #712e5edc;
     border-radius: 50%;
@@ -45,15 +47,18 @@ img {
     box-shadow: 0 0 20px #ab2c94;
     filter: brightness(120%);
 }
+
 h2 {
     margin-bottom: 15px;
     font-size: 30px;
 }
+
 label {
     display: block;
     margin-bottom: -11px;
     font-size: 17px;
 }
+
 input {
     outline: none;
     border: none;
@@ -61,6 +66,7 @@ input {
     background: #e256bdbb;
     color: rgb(243, 204, 241);
 }
+
 button {
     width: 100%;
     border-radius: 15px;
@@ -73,6 +79,7 @@ button {
     color: rgb(243, 204, 241);
     border: 1px solid #fac1f4;
 }
+
 button:hover {
     transform: scale(105%);
     transition: all 0.5s ease-in-out;
