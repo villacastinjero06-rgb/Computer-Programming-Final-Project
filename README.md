@@ -35,3 +35,7 @@ for ease of access
     <td>n/a</td>
   </tr>
 </table>
+
+<h2>Notes</h2>
+<p>Group work by Anthony, David, Jero, John Michael, and Nick</p>
+<p>:3</p>
