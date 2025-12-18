@@ -1,6 +1,6 @@
 # TestTwos
-for Computer Programming, Final Output
-(I Have no Idea what I'm doing)
+for Computer Programming, Final Project
+<br>
 <h1>BIG NOTE (READ THIS SERIOUSLY)</h1>
 <p><i>There are several sets included in this project</i></p>
 <h2><b>MAIN FILES</b></h2>
