@@ -3,7 +3,8 @@ for ease of access
 (I Have no Idea what I'm doing)
 <h1>BIG NOTE (READ THIS SERIOUSLY)</h1>
 <p>There are four sets included in this project</p>
-<p>Project 1.4 (Reconfigured), same as 1.4 except the code where you can't access files when not logged-in actually works</p>
+<p>Project 1.4 (Reconfigured) This is the Main File, same as 1.4 except the code where you can't access files when not logged-in actually works</p>
+<h2>These are the extras and previous builds</h2>
 <p>Project 1.4 is supposed to be the final output</p>
 <p>Project 1.3 is the stripped down basic output with only the .txt files</p>
 <p>Project 1.2 is the base version of the project, the same as [Project 1.3]</p>
